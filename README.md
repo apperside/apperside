@@ -24,8 +24,6 @@ Here are some ideas to get you started:
  > 
 > 📦 876.4 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 57 Public Repositories 
  > 
 > 🔑 75 Private Repositories  
