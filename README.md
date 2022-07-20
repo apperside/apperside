@@ -18,17 +18,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 1,552 Contributions in the Year 2022
+> 🏆 1,551 Contributions in the Year 2022
  > 
 > 📦 876.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 56 Public Repositories 
+> 📜 57 Public Repositories 
  > 
 > 🔑 75 Private Repositories  
  > 
@@ -99,5 +97,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/apperside/apperside/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2022 18:00:26 UTC
+ Last Updated on 20/07/2022 18:05:35 UTC
 <!--END_SECTION:waka-->
