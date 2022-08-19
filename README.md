@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-595%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-791%20hrs%204%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -148,5 +148,5 @@ Java                     2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/apperside/apperside/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 02:33:57 UTC
+ Last Updated on 19/08/2022 02:20:58 UTC
 <!--END_SECTION:waka-->
