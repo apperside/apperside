@@ -53,6 +53,24 @@ A full stack freelance developer highly proficient with, but not limited to, the
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+
+### My open source work
+
+I have not (yet 😏) created that big library with tons of stars, but I made this library I am proud of because it is a (small) missing piece but that makes (to me) a lot of difference if you care about types and you use react query
+
+[React Query Typed Api](https://github.com/apperside/react-query-typed-api)
+
+There is also this one, which is more trivial but still usefull when you develop for web and native
+
+[Cross Local Storage](https://github.com/apperside/react-query-typed-api)
+
+I am also considering to opensource this one 
+
+[BoilerCoder](https://github.com/apperside/react-query-typed-api)
+
+
+
+
 ### 💬 Want to talk with me? 👇🏼
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
