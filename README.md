@@ -60,18 +60,18 @@ I have not (yet 😏) created that big library with tons of stars.
 You can find here some little project I built as side project
 
 
-[Dockerify.ai](https://github.com/apperside/dockerify.ai)
+#### [Dockerify.ai](https://github.com/apperside/dockerify.ai)
 A little experiment that uses artificial intelligence to facilitate the creation of docker files
 
-[React Query Typed Api](https://github.com/apperside/react-query-typed-api)
+#### [React Query Typed Api](https://github.com/apperside/react-query-typed-api)
 I use [react-query](https://tanstack.com/query/latest/docs/framework/react/overview) a lot, and it is an amazing library, but it lacks implicit type safety (the ability to infer the return type from the query key). So I built this (opnionated) wrapper that gives your strong types when using it
 
-[Cross Local Storage](https://github.com/apperside/react-query-typed-api)
+#### [Cross Local Storage](https://github.com/apperside/react-query-typed-api)
 A small wrapper for local storage that can be used on both React and React Native apps with a unified api
 
-I am also considering to opensource this one 
 
-[BoilerCoder](https://github.com/apperside/react-query-typed-api)
+#### [BoilerCoder](https://github.com/apperside/react-query-typed-api)
+I am also considering to opensource this one 
 
 
 
