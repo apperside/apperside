@@ -63,6 +63,10 @@ You can find here some little project I built as side project
 #### [Dockerify.ai](https://github.com/apperside/dockerify.ai)
 A little experiment that uses artificial intelligence to facilitate the creation of docker files
 
+
+#### [Thunderclone](https://github.com/apperside/Thunderclone)
+Clone and execute locally any github project with just the click of a button
+
 #### [React Query Typed Api](https://github.com/apperside/react-query-typed-api)
 I use [react-query](https://tanstack.com/query/latest/docs/framework/react/overview) a lot, and it is an amazing library, but it lacks implicit type safety (the ability to infer the return type from the query key). So I built this (opnionated) wrapper that gives your strong types when using it
 
