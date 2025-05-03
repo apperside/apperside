@@ -105,13 +105,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C039%20hrs%2050%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
- > 
-> 🏆 245 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,5 +168,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 00:48:57 UTC
+ Last Updated on 03/05/2025 00:47:42 UTC
 <!--END_SECTION:waka-->
