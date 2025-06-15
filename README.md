@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C076%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C076%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -146,16 +146,17 @@ Sunday                   27442 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     2 mins              █████████████████████████   99.11 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+smartphone-finder        2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -171,5 +172,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 00:49:31 UTC
+ Last Updated on 15/06/2025 00:54:59 UTC
 <!--END_SECTION:waka-->
