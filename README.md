@@ -105,11 +105,13 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C137%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C138%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 280 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,16 +146,19 @@ Sunday                   27480 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     20 mins             ██████████░░░░░░░░░░░░░░░   39.14 % 
+Bash                     20 mins             ██████████░░░░░░░░░░░░░░░   38.86 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   53 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          53 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -169,5 +174,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 00:58:53 UTC
+ Last Updated on 26/08/2025 00:57:31 UTC
 <!--END_SECTION:waka-->
