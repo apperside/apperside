@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C463%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C463%20hrs%2040%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -171,5 +171,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 01:14:00 UTC
+ Last Updated on 06/01/2026 01:20:06 UTC
 <!--END_SECTION:waka-->
