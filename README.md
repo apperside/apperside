@@ -146,18 +146,16 @@ Sunday                   29609 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               13 mins             █████████████████████████   98.04 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   11 mins             ████████████████████░░░░░   80.68 % 
-VS Code                  2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-polybank                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -173,5 +171,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2026 01:28:51 UTC
+ Last Updated on 21/03/2026 01:18:43 UTC
 <!--END_SECTION:waka-->
