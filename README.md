@@ -67,9 +67,6 @@ A little experiment that uses artificial intelligence to facilitate the creation
 #### [Thunderclone](https://github.com/apperside/Thunderclone)
 Clone and execute locally any github project with just the click of a button
 
-#### [React Query Typed Api](https://github.com/apperside/react-query-typed-api)
-I use [react-query](https://tanstack.com/query/latest/docs/framework/react/overview) a lot, and it is an amazing library, but it lacks implicit type safety (the ability to infer the return type from the query key). So I built this (opnionated) wrapper that gives your strong types when using it
-
 #### [Tanstack Query Typed](https://apperside.github.io/tanstack-query-typed/)
 A lightweight TypeScript library that adds strong typing to [TanStack Query](https://tanstack.com/query/latest) with zero runtime overhead. You declare your queries and mutations once in a central registry, then get full type safety on query names, key segments, payloads and response data through typed `useAppQuery`, `useAppMutation` and `useAppQueryClient` hooks
 
