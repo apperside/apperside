@@ -105,30 +105,81 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C652%20hrs%2046%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 486 Contributions in the Year 2026
+> 🏆 490 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 99 Public Repositories 
+> 📜 100 Public Repositories 
  > 
 > 🔑 121 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                81405 commits       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
+🌆 Daytime                142816 commits      █████████████░░░░░░░░░░░░   51.34 % 
+🌃 Evening                53844 commits       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+🌙 Night                  111 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   41803 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Tuesday                  47406 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Wednesday                43763 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 45563 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Friday                   47712 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 22316 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Sunday                   29613 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+TypeScript               3 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.80 % 
+Markdown                 1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+JSON                     1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Other                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+
+🔥 Editors: 
+Cursor                   5 hrs 37 mins       ████████████████░░░░░░░░░   62.38 % 
+VS Code                  2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Claude Code              1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+
+🐱‍💻 Projects: 
+monorepo                 5 hrs 57 mins       █████████████████░░░░░░░░   66.22 % 
+tanstak-query-typed      1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+boilercoder-frontend     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+reperio 2.0              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+claude-code-studio       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+
+💻 Operating System: 
+Mac                      9 hrs               █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               121 repos           ███████████████████░░░░░░   74.69 % 
-JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               121 repos           ███████████████████░░░░░░   74.23 % 
+JavaScript               21 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 
 
 
- Last Updated on 29/05/2026 02:24:43 UTC
+ Last Updated on 30/05/2026 02:14:18 UTC
 <!--END_SECTION:waka-->
