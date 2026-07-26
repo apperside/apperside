@@ -105,6 +105,8 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C730%20hrs%202%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
@@ -144,19 +146,18 @@ Sunday                   29635 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               11 mins             ███████████████░░░░░░░░░░   59.81 % 
-Diff                     7 mins              ██████████░░░░░░░░░░░░░░░   39.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Markdown                 17 mins             ███████████████████░░░░░░   75.58 % 
+TypeScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
 
 🔥 Editors: 
-Claude Code              14 mins             ██████████████████░░░░░░░   73.39 % 
-Cursor                   5 mins              ███████░░░░░░░░░░░░░░░░░░   26.61 % 
+Cursor                   23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatbot                  19 mins             █████████████████████████   100.00 % 
+chatbot                  22 mins             ████████████████████████░   96.75 % 
+polybank                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
 
 💻 Operating System: 
-Mac                      19 mins             █████████████████████████   100.00 % 
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -172,5 +173,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 05:15:15 UTC
+ Last Updated on 26/07/2026 05:19:08 UTC
 <!--END_SECTION:waka-->
