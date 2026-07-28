@@ -105,7 +105,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C730%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C460%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -160,6 +162,28 @@ polybank                 0 secs              █░░░░░░░░░░�
 Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 mins (24.42%)
+
+✍️ 3 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 17,211,074 Input Tokens, 12,482 Output Tokens
+
+💵 $51.82 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Composer                 4 lines             █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 117 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -173,5 +197,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 05:32:35 UTC
+ Last Updated on 28/07/2026 05:20:25 UTC
 <!--END_SECTION:waka-->
