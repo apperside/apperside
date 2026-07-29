@@ -105,10 +105,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C460%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2032%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
@@ -148,40 +144,40 @@ Sunday                   29635 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 17 mins             ███████████████████░░░░░░   75.58 % 
-TypeScript               5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+Markdown                 17 mins             ██████████████████████░░░   88.79 % 
+TypeScript               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 🔥 Editors: 
-Cursor                   23 mins             █████████████████████████   100.00 % 
+Cursor                   19 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chatbot                  22 mins             ████████████████████████░   96.75 % 
-polybank                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+chatbot                  19 mins             ████████████████████████░   96.18 % 
+polybank                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 Operating System: 
-Mac                      23 mins             █████████████████████████   100.00 % 
+Mac                      19 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (24.42%)
+⏱ AI Coding Time: 2 mins (11.21%)
 
-✍️ 3 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 17,211,074 Input Tokens, 12,482 Output Tokens
+🔤 4,347,371 Input Tokens, 5,912 Output Tokens
 
-💵 $51.82 Estimated AI Cost This Week
+💵 $13.13 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
-Composer                 4 lines             █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 170 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -197,5 +193,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 05:20:25 UTC
+ Last Updated on 29/07/2026 05:11:33 UTC
 <!--END_SECTION:waka-->
