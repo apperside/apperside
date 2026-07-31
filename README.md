@@ -113,32 +113,32 @@ Here are some ideas to get you started:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 762 Contributions in the Year 2026
+> 🏆 829 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 104 Public Repositories 
+> 📜 105 Public Repositories 
  > 
-> 🔑 124 Private Repositories 
+> 🔑 123 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81451 commits       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-🌆 Daytime                142930 commits      █████████████░░░░░░░░░░░░   51.28 % 
-🌃 Evening                53867 commits       █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-🌙 Night                  480 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+🌞 Morning                81611 commits       ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+🌆 Daytime                143170 commits      █████████████░░░░░░░░░░░░   51.23 % 
+🌃 Evening                53945 commits       █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+🌙 Night                  762 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   41905 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Tuesday                  47399 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Wednesday                43779 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 45579 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Friday                   47782 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Saturday                 22649 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-Sunday                   29635 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Monday                   42055 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Tuesday                  47488 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Wednesday                43800 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Thursday                 45599 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Friday                   47926 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Saturday                 22937 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Sunday                   29683 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 ```
 
 
@@ -148,23 +148,47 @@ Sunday                   29635 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 17 mins             █████████████████████████   100.00 % 
+TypeScript               1 hr 27 mins        ██████████████░░░░░░░░░░░   54.58 % 
+Markdown                 45 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Diff                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Cursor                   17 mins             █████████████████████████   100.00 % 
+Cursor                   1 hr 24 mins        █████████████░░░░░░░░░░░░   52.54 % 
+Claude Code              1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.46 % 
 
 🐱‍💻 Projects: 
-chatbot                  16 mins             ████████████████████████░   95.70 % 
-polybank                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+polybank                 2 hrs 3 mins        ███████████████████░░░░░░   76.80 % 
+react-render-insights-lib20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+chatbot                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 22 mins (88.98%)
+
+✍️ 3,972 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 53,168,536 Input Tokens, 250,627 Output Tokens
+
+💵 $130.87 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 26 AI Prompts
+
+Composer                 999 lines           ███████████░░░░░░░░░░░░░░   45.08 % 
+Haiku                    652 lines           ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Sonnet                   565 lines           ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,211 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -180,5 +204,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 04:43:40 UTC
+ Last Updated on 31/07/2026 05:27:45 UTC
 <!--END_SECTION:waka-->
