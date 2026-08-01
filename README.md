@@ -105,9 +105,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C460%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C463%20hrs%2014%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-104%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -148,35 +148,34 @@ Sunday                   29683 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        ██████████████░░░░░░░░░░░   54.58 % 
-Markdown                 45 mins             ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Diff                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               1 hr 27 mins        ███████████████░░░░░░░░░░   61.34 % 
+Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Diff                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 
 🔥 Editors: 
-Cursor                   1 hr 24 mins        █████████████░░░░░░░░░░░░   52.54 % 
-Claude Code              1 hr 16 mins        ████████████░░░░░░░░░░░░░   47.46 % 
+Claude Code              1 hr 16 mins        █████████████░░░░░░░░░░░░   53.33 % 
+Cursor                   1 hr 6 mins         ████████████░░░░░░░░░░░░░   46.67 % 
 
 🐱‍💻 Projects: 
-polybank                 2 hrs 3 mins        ███████████████████░░░░░░   76.80 % 
-react-render-insights-lib20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-chatbot                  16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+polybank                 2 hrs 2 mins        █████████████████████░░░░   85.78 % 
+react-render-insights-lib20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 
 💻 Operating System: 
-Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (88.98%)
+⏱ AI Coding Time: 2 hrs 22 mins (100.0%)
 
 ✍️ 3,972 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 53,168,536 Input Tokens, 250,627 Output Tokens
 
-💵 $130.87 Estimated AI Cost This Week
+💵 $128.99 Estimated AI Cost This Week
 
 🧠 2 AI Sessions, 26 AI Prompts
 
@@ -204,5 +203,5 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 05:27:45 UTC
+ Last Updated on 01/08/2026 05:24:24 UTC
 <!--END_SECTION:waka-->
