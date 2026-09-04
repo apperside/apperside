@@ -148,22 +148,41 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     37 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   45 mins             █████████████████████████   100.00 % 
+Cursor                   45 mins             ██████████████░░░░░░░░░░░   55.22 % 
+Claude Code              37 mins             ███████████░░░░░░░░░░░░░░   44.78 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+__DEV_MINDMAP__          37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      37 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 37 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 2,360,325 Input Tokens, 17,893 Output Tokens
+
+💵 $115.84 Estimated AI Cost This Week
+
+🧠 3 AI Sessions, 12 AI Prompts
+
+Composer                 999 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 1,682 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -179,5 +198,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 06:29:12 UTC
+ Last Updated on 04/09/2026 06:17:14 UTC
 <!--END_SECTION:waka-->
