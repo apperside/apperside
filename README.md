@@ -124,19 +124,19 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81788 commits       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌆 Daytime                143481 commits      █████████████░░░░░░░░░░░░   51.18 % 
-🌃 Evening                54010 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-🌙 Night                  1053 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+🌞 Morning                81788 commits       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌆 Daytime                143512 commits      █████████████░░░░░░░░░░░░   51.19 % 
+🌃 Evening                54010 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌙 Night                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   42180 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Tuesday                  47563 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                43831 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Monday                   42206 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Tuesday                  47568 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
+Wednesday                43831 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Thursday                 45674 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   48173 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Friday                   48178 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 Saturday                 23188 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 Sunday                   29723 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 ```
@@ -148,50 +148,50 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 3 hrs 11 mins       ██████████████░░░░░░░░░░░   54.79 % 
-Kotlin                   50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-JSON                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Markdown                 3 hrs 42 mins       ██████████████░░░░░░░░░░░   56.51 % 
+Kotlin                   50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 41 mins       ██████████████████████░░░   86.09 % 
-Cursor                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Agent                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Claude Code              6 hrs 24 mins       ██████████████████████░░░   87.46 % 
+Cursor                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Agent                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 🐱‍💻 Projects: 
-BlockMe                  5 hrs 7 mins        ██████████████████████░░░   87.76 % 
-__DEV_MINDMAP__          38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-prova                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-chatbot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+BlockMe                  5 hrs 50 mins       ██████████████████████░░░   89.11 % 
+__DEV_MINDMAP__          38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+prova                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+chatbot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      5 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 49 mins (99.83%)
+⏱ AI Coding Time: 6 hrs 32 mins (99.85%)
 
-✍️ 5,526 lines written by AI, 74 lines written by hand (98.68% AI-written)
+✍️ 5,571 lines written by AI, 74 lines written by hand (98.69% AI-written)
 
-🔤 5,272,609 Input Tokens, 302,617 Output Tokens
+🔤 5,698,168 Input Tokens, 336,547 Output Tokens
 
-💵 $175.13 Estimated AI Cost This Week
+💵 $181.33 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 53 AI Prompts
+🧠 12 AI Sessions, 53 AI Prompts
 
-Sonnet                   3,992 lines         ███████████████░░░░░░░░░░   60.98 % 
-Opus                     1,555 lines         ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Composer                 999 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Sonnet                   4,018 lines         ███████████████░░░░░░░░░░   60.96 % 
+Opus                     1,574 lines         ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Composer                 999 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.68% of written lines came from AI
+🤖 AI-Driven — 98.69% of written lines came from AI
 📄 Detailed Prompter — average 636 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.32% of changed lines were hand-edited
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -207,5 +207,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 06:28:32 UTC
+ Last Updated on 08/09/2026 06:49:59 UTC
 <!--END_SECTION:waka-->
