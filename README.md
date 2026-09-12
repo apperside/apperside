@@ -148,50 +148,47 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Markdown                 7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.40 % 
-TypeScript               6 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.74 % 
-Kotlin                   1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Diff                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-XML                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+TypeScript               5 hrs 13 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.64 % 
+Diff                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Kotlin                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 41 mins      █████████████████████████   98.31 % 
-Cursor                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Agent                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Claude Code              9 hrs 33 mins       █████████████████████████   98.61 % 
+Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-BlockMe                  16 hrs 50 mins      █████████████████████████   99.21 % 
-__DEV_MINDMAP__          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-prova                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-chatbot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+BlockMe                  9 hrs 38 mins       █████████████████████████   99.57 % 
+__DEV_MINDMAP__          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 💻 Operating System: 
-Mac                      16 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 58 mins (99.94%)
+⏱ AI Coding Time: 9 hrs 41 mins (100.0%)
 
-✍️ 14,641 lines written by AI, 74 lines written by hand (99.5% AI-written)
+✍️ 7,254 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,050,263 Input Tokens, 1,167,415 Output Tokens
+🔤 9,308,554 Input Tokens, 744,955 Output Tokens
 
-💵 $279.67 Estimated AI Cost This Week
+💵 $187.81 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 151 AI Prompts
+🧠 8 AI Sessions, 89 AI Prompts
 
-Sonnet                   10,917 lines        ██████████████████░░░░░░░   73.13 % 
-Opus                     4,012 lines         ███████░░░░░░░░░░░░░░░░░░   26.87 % 
+Sonnet                   6,113 lines         ████████████████████░░░░░   81.30 % 
+Opus                     1,406 lines         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.5% of written lines came from AI
-📚 Verbose Prompter — average 1,669 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,045 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -207,5 +204,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 06:44:34 UTC
+ Last Updated on 12/09/2026 06:33:18 UTC
 <!--END_SECTION:waka-->
