@@ -148,46 +148,46 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               5 hrs 13 mins       █████████████░░░░░░░░░░░░   53.95 % 
-Markdown                 3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   32.64 % 
-Diff                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Kotlin                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+TypeScript               3 hrs 56 mins       ██████████████░░░░░░░░░░░   54.17 % 
+Markdown                 2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Diff                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TSConfig                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 33 mins       █████████████████████████   98.61 % 
-Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Claude Code              7 hrs 9 mins        █████████████████████████   98.16 % 
+Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Agent                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-BlockMe                  9 hrs 38 mins       █████████████████████████   99.57 % 
-__DEV_MINDMAP__          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+BlockMe                  7 hrs 14 mins       █████████████████████████   99.43 % 
+__DEV_MINDMAP__          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      9 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 41 mins (100.0%)
+⏱ AI Coding Time: 7 hrs 17 mins (100.0%)
 
-✍️ 7,254 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,857 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 9,308,554 Input Tokens, 744,955 Output Tokens
+🔤 6,726,204 Input Tokens, 595,677 Output Tokens
 
-💵 $187.81 Estimated AI Cost This Week
+💵 $139.28 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 89 AI Prompts
+🧠 7 AI Sessions, 64 AI Prompts
 
-Sonnet                   6,113 lines         ████████████████████░░░░░   81.30 % 
-Opus                     1,406 lines         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Sonnet                   5,898 lines         █████████████████████████   98.07 % 
+Opus                     116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,045 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📚 Verbose Prompter — average 2,817 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -204,5 +204,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 07:14:29 UTC
+ Last Updated on 15/09/2026 06:58:40 UTC
 <!--END_SECTION:waka-->
