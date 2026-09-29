@@ -148,23 +148,42 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              0 secs              ████████████████████████░   95.15 % 
-Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Claude Code              0 secs              ████████████████████░░░░░   81.28 % 
+Agent                    0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Cursor                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BlockMe                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 1,074 Input Tokens, 1,074 Output Tokens
+
+💵 $5.41 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Sonnet                   379 lines           █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 2,151 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -180,5 +199,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 08:00:45 UTC
+ Last Updated on 29/09/2026 08:44:26 UTC
 <!--END_SECTION:waka-->
