@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C472%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C473%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2049%20mins-blue?style=flat)
 
@@ -124,20 +124,20 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81788 commits       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-🌆 Daytime                143512 commits      █████████████░░░░░░░░░░░░   51.19 % 
-🌃 Evening                54010 commits       █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+🌞 Morning                81788 commits       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+🌆 Daytime                143479 commits      █████████████░░░░░░░░░░░░   51.18 % 
+🌃 Evening                54010 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 🌙 Night                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   42206 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Monday                   42206 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 Tuesday                  47568 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                43831 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                43820 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Thursday                 45674 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   48178 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Saturday                 23188 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Friday                   48167 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 23177 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 Sunday                   29723 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 ```
 
@@ -148,27 +148,27 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               58 mins             █████████████████████████   99.87 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+TypeScript               1 hr 10 mins        █████████████████████████   99.89 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Cursor                   58 mins             █████████████████████████   99.87 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Cursor                   1 hr 10 mins        █████████████████████████   99.89 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-hKjhIhxc                 58 mins             █████████████████████████   99.87 % 
-BlockMe                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+hKjhIhxc                 1 hr 10 mins        █████████████████████████   99.89 % 
+BlockMe                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      59 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.13%)
+⏱ AI Coding Time: 0 secs (0.11%)
 
-✍️ 0 lines written by AI, 159 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 181 lines written by hand (0.0% AI-written)
 
 🔤 1,076 Input Tokens, 1,076 Output Tokens
 
@@ -198,5 +198,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 09:40:31 UTC
+ Last Updated on 07/10/2026 09:20:05 UTC
 <!--END_SECTION:waka-->
