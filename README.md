@@ -124,8 +124,8 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                81788 commits       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
-🌆 Daytime                143479 commits      █████████████░░░░░░░░░░░░   51.18 % 
+🌞 Morning                81788 commits       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+🌆 Daytime                143482 commits      █████████████░░░░░░░░░░░░   51.18 % 
 🌃 Evening                54010 commits       █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
 🌙 Night                  1058 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
@@ -134,10 +134,10 @@ Here are some ideas to get you started:
 ```text
 Monday                   42206 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
 Tuesday                  47568 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Wednesday                43820 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+Wednesday                43821 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 Thursday                 45674 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Friday                   48167 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Saturday                 23177 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Friday                   48168 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Saturday                 23178 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 Sunday                   29723 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
 ```
 
@@ -148,39 +148,22 @@ Sunday                   29723 commits       ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               18 mins             █████████████████████████   99.97 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+TypeScript               2 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   18 mins             █████████████████████████   99.97 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Cursor                   2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-hKjhIhxc                 18 mins             █████████████████████████   99.97 % 
-__DEV_MINDMAP__          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+hKjhIhxc                 2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.03%)
-
-✍️ 0 lines written by AI, 28 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 8 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 351 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -196,5 +179,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 10:44:28 UTC
+ Last Updated on 14/10/2026 09:07:44 UTC
 <!--END_SECTION:waka-->
