@@ -70,6 +70,9 @@ Clone and execute locally any github project with just the click of a button
 #### [Tanstack Query Typed](https://apperside.github.io/tanstack-query-typed/)
 A lightweight TypeScript library that adds strong typing to [TanStack Query](https://tanstack.com/query/latest) with zero runtime overhead. You declare your queries and mutations once in a central registry, then get full type safety on query names, key segments, payloads and response data through typed `useAppQuery`, `useAppMutation` and `useAppQueryClient` hooks
 
+#### [vscode-react-memoize](https://apperside.github.io/vscode-react-memoize/)
+A VS Code extension that wraps variables, functions and inline JSX props in `useMemo` / `useCallback` in one click, with the dependency array already filled in the way `react-hooks/exhaustive-deps` would require. Works in JS, JSX, TS and TSX. Install it with `code --install-extension apperside.vscode-react-memoize` ([source](https://github.com/apperside/vscode-react-memoize))
+
 #### [Cross Local Storage](https://github.com/apperside/react-query-typed-api)
 A small wrapper for local storage that can be used on both React and React Native apps with a unified api
 
